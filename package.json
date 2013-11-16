@@ -1,0 +1,15 @@
+{
+  "name": "calcium-request",
+  "version": "0.0.0",
+  "description": "get data from calcium using student credentials",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Alyssa Davis <davia317@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~3.4.4",
+    "request": "~2.27.0"
+  }
+}
